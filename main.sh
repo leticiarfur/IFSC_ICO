@@ -1,1 +1,1 @@
-echo Diego, Eduardo e Leticia
+echo Diego, Eduardo, Henrique, Leticia e Sophia
