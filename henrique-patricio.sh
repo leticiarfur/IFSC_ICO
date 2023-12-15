@@ -1,2 +1,2 @@
 echo henrique patricio
-mkdir patricio-henrique
+mkdir henrique-patricio
